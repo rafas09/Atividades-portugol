@@ -7,12 +7,12 @@ programa {
     recomendo
     */
 
-    //Declação de variáveis
+    //DeclaÃ§Ã£o de variÃ¡veis
     cadeia nome
     inteiro idade
     real altura
 
-    //Atribuição de variáveis
+    //AtribuiÃ§Ã£o de variÃ¡veis
     nome = "Rafinha"
     idade = 15
     altura = 1.59
